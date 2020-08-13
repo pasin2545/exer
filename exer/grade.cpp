@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+int global_int;
 int main() {
 	int a, b, c, re;
 	scanf_s("%d", &a);
